@@ -8,7 +8,7 @@
   "scripts": {
     "start": "node server.js"
   },
-  "author": "Chris Sevilleja <scotch.io>",
+  "author": "Angel JCC",
   "license": "MIT",
   "dependencies": {
     "express": "~4.0.0",
